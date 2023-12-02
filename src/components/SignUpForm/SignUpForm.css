@@ -1,0 +1,51 @@
+form {
+    width: 30%;
+    margin: auto;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 0 0 15px #fff;
+    border-radius: 8px;
+}
+
+input {
+    margin: auto;
+    width: 100%;
+    font-size: 1.2em;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border: none;
+    box-shadow: 0 0 15px lightblue;
+    padding: 8px;
+}
+
+input:focus {
+    border: 3px solid #555;
+}
+
+::placeholder {
+    text-align: left;
+}
+
+label {
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.submitBtn {
+    margin-left: 150px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #188038;
+    color: #fff;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
