@@ -3,8 +3,9 @@ form {
     margin: auto;
     border: 1px solid white;
     background-color: white;
-    box-shadow: 0 0 15px #fff;
+    box-shadow: 0 0 15px lightsteelblue;
     border-radius: 8px;
+    padding-top: 60px;
 }
 
 input {
@@ -39,11 +40,11 @@ label {
 
 .submitBtn {
     margin-left: 150px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     border: none;
     border-radius: 5px;
     margin-top: 15px;
-    padding: 10px;
+    padding: 8px;
     background-color: #188038;
     color: #fff;
     margin-bottom: 10px;
